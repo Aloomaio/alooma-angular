@@ -1,0 +1,22 @@
+{
+  "name": "angular-alooma",
+  "authors": [
+    "Itamar Weiss <weiss.itamar@gmail.com>"
+  ],
+  "description": "Wraps the alooma JavaScript global.",
+  "main": "angular-alooma.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "alooma"
+  ],
+  "license": "WTFPL",
+  "homepage": "https://www.alooma.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
