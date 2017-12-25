@@ -2,6 +2,7 @@
   "name": "angular-alooma",
   "description": "Wraps the alooma JavaScript global.",
   "homepage": "https://www.alooma.com",
+  "version": "0.0.2",
   "author": {
     "name": "Itamar Weiss <weiss.itamar@gmail.com>"
   },
