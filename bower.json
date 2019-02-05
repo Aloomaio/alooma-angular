@@ -10,7 +10,7 @@
     "angular",
     "alooma"
   ],
-  "license": "WTFPL",
+  "license": "Apache v2",
   "homepage": "https://www.alooma.com",
   "ignore": [
     "**/.*",
